@@ -1,0 +1,4 @@
+include ':EEIC Library'
+include ':EDT Library'
+include ':app'
+rootProject.name = "EDT EEIC Test"
